@@ -1,0 +1,6 @@
+{
+    "myPhoto-index": {
+        "pageTitle": "My Photo Home",
+        "layout": "_myPhoto-layout.ejs"
+    }
+}
